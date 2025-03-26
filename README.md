@@ -1,2 +1,3 @@
-# OTM106-2025
-Repositorio principal de la materia de OFMATICA
+# OTM106-2025 
+# temas de la materia
+# practica 1 
